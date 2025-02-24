@@ -1,0 +1,6 @@
+aiohttp>=3.11.12
+beautifulsoup4>=4.13.3
+pymongo>=4.11.1
+python-dotenv>=1.0.1
+requests>=2.32.3
+urllib3>=2.3.0
