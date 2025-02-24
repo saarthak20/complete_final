@@ -31,7 +31,7 @@ An automated news scraping and publishing tool that collects articles from Decca
 ### 2. Install WordPress
 1. Import the provided .wpress file:
    - Install WordPress on your local server
-   to download wpress, install it from the given google_drive- https://drive.google.com/drive/folders/1pQxGpVHfCdBZJ9S0iMkeXMj7h0whsQTv?usp=sharing
+   to download wpress, download it from the given google_drive- https://drive.google.com/drive/folders/1pQxGpVHfCdBZJ9S0iMkeXMj7h0whsQTv?usp=sharing
    - Install "All-in-One WP Migration" plugin
    - Go to All-in-One WP Migration > Import
    - Import the provided .wpress file
